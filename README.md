@@ -1,3 +1,3 @@
 # React + Vite
 
-Commit from branch dev
+Commit branch dev
